@@ -73,7 +73,7 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master540p.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
 #EXTINF:-1 tvg-name="City News 24/7" tvg-logo="https://rtdnacanada.com/wp-content/uploads/2024/11/CityNews_247_RGB-scaled.jpg" group-title="English",City News 24/7
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-2Mbps.m3u8
-https://admin2.formaturamaxi.com.br/foxalt.m3u8
+
 
 # --------------Others ---------------
 
@@ -86,7 +86,8 @@ https://netanyahu.indianservers.st/secure/zlsiwNzMRiFCvxyxFsGLSuEaKXxKIEyA/17843
 https://shiva.indianservers.st/secure/yrEKoGIBUutucqLAFCSAGiWvFnpCihhY/1784397600/1784424600/bbcone/index.m3u8
 #EXTINF:-1 tvg-name="TSN" tvg-logo="" group-title="sports", TSN
 https://netanyahu.indianservers.st/secure/HLYmFxbPbAjJsrBIecvTCqIBbfMCmCwC/1784397600/1784424600/tsnwc/index.m3u8
-
+#EXTINF:-1 tvg-name="FOX1" tvg-logo="" group-title="sports", FOX1
+https://admin2.formaturamaxi.com.br/foxalt.m3u8
 
 
 
