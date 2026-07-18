@@ -80,6 +80,8 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-2M
 
 
 # --------------Sports Channel ---------------
+#EXTINF:-1 tvg-name="FOX" tvg-logo="" group-title="sports", FOX
+https://netanyahu.indianservers.st/secure/zlsiwNzMRiFCvxyxFsGLSuEaKXxKIEyA/1784397600/1784424600/FOX/index.m3u8
 
 
 
