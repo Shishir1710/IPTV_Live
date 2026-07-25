@@ -231,6 +231,10 @@ https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 # ==========================================
 # Sports
 # ==========================================
+#EXTINF:-1 tvg-logo="" group-title="Sports",T Sports
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 1
+http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XTRA
